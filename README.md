@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/him
 
 ### Connect with me:
-[![Linkedin](/images/linkedin.png)](https://www.linkedin.com/in/vishal0/)                 [![Stackoverflow](/images/stack.png)](https://stackoverflow.com/users/27615214/vishal-bhavsar)
+[![Linkedin](/images/linkedin.jpeg)](https://www.linkedin.com/in/vishal0/)                 [![Stackoverflow](/images/stack.jpeg)](https://stackoverflow.com/users/27615214/vishal-bhavsar)
